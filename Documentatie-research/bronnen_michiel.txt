@@ -1,0 +1,10 @@
+tijd gewerkt aan project
+
+	
+	8/04: 18:30 - 22:30
+		installeren eclipse
+		installeren android SDK
+		installeren apache ant
+		installeren phonegap
+	9/04: 10:45 - 
+		eerste applicatie testen met 
