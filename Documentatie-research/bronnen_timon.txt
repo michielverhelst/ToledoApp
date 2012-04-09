@@ -20,10 +20,20 @@ Tijd gewerkt aan project:
 		rss feed reader with javascript:
 		http://www.hotscripts.com/listing/javascript-rss-reader/
 		
-		10:37 - 
+		08/04 10:37 - 15:00
 		
 		rss feed reader continues
 		
 		toledo rss feed timon: https://cygnus.cc.kuleuven.be/webapps/tol-data-rs-events-bb_bb60/rs/events/s/e-q0428490/cd70742b-dd32-43ab-94aa-58ed6a2b5e47?type=*&s=OclxxdlfGc6sA9lhLkIJ5gj%2FwZI%3D&view=atom
+
+
 		
+		09/04 11:03 - 12:27
+		
+		13:56 - 
+		
+		install tortoise plugin in ecplipse:
+		http://aaronsaray.com/blog/2007/07/14/eclipse-integration-with-tortoise-svn/
+		
+
 		
