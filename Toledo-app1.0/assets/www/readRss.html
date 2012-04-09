@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+	
+		<title>ToledoApp1.0</title>
+	
+		<script type="text/javascript" charset="utf-8" src="js/lawnchair-0.6.1.js"></script>
+		<script type="text/javascript" charset="utf-8" src="cordova-1.5.0.js"></script>
+		<script type="text/javascript" charset="utf-8" src="js/readRss.js"></script>
+		<script type="text/javascript" charset="utf-8" src="RSS/rss.js"></script>
+		
+		    
+		 <link rel="stylesheet" type="text/css" href="css/index.css" />
+	</head>
+	
+	<body onload="onLoad();">
+	
+		<header>
+			<h1 class="title">What's your RSS Feed?</h1>
+		</header>
+	
+		<section id="intro">
+			<!-- Introduction -->
+		</section>
+		
+		<section id="content">
+			<!-- Main content -->
+			
+			<form>
+				<label for="rssfeed">RSS Feed: </label>
+				<input type="text" name="rssfeed" id="rssfeed" />
+				<button type="button" onclick="saveRssFeed();">Save</button>
+				<button type="button" onclick="getRssFeed();">Get</button>
+				<button type="button" onclick="gotoHome();">Cancel</button>
+			</form>
+
+		</section>
+		
+		<footer>
+		
+		</footer>
+
+	</body>
+
+</html>
