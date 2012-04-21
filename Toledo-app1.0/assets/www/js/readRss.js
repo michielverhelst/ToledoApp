@@ -5,10 +5,6 @@ var rssFeed;
 
 function saveRssFeed() {
 	
-	
-	
-	//rssFeed = document.getElementById("rssfeed").value;
-	
 	rssFeed.save({key:'feed', value:document.getElementById("rssfeed").value})
 
 }
